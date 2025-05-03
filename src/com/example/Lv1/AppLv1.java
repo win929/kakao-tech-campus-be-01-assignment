@@ -1,8 +1,8 @@
-package com.example.calculator;
+package com.example.Lv1;
 
 import java.util.Scanner;
 
-public class CalculatorLv1 {
+public class AppLv1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
